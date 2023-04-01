@@ -1,0 +1,12 @@
+name:diego 
+email:diego
+username:deigo
+password:diegoo
+name:diego
+email:dieg
+username:diegoo
+password:diessdosigo
+name:diego
+email:agusitn
+username:diegoo
+password:diegoa
